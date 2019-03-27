@@ -2,3 +2,7 @@ For this project, I have used several methods of Anomaly detection with Probabil
 Two major algorithms are implemented namely,
 1. A local out wire factor to calculate anomaly scores.
 2. Isolation forced algorithm. 
+
+
+//Sample Dataset can be downloaded from Kaggle
+https://www.kaggle.com/mlg-ulb/creditcardfraud
